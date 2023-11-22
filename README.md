@@ -1,6 +1,4 @@
 # Mini-payroll
-Here is the paragraph rewritten in a slightly different manner:
-
 The system models employees within a company to facilitate payroll processing. There are two employee types: engineers and trainees.   
 
 Engineers have attributes for ID, name, age, salary, working hours, and grade.  Grade encompasses position, tax rate, and pay rate. An engineer's salary can be calculated from working hours, pay rate, and tax rate.    
